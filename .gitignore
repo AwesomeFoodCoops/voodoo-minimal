@@ -1,3 +1,7 @@
+# Custom Louve File
+
+louve_start_openerp
+
 # sphinx build directories
 _build/
 

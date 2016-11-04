@@ -1,8 +1,5 @@
 # Custom Louve File
 
-louve_start_openerp.py
-
-
 # sphinx build directories
 _build/
 

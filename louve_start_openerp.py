@@ -47,7 +47,7 @@ sys.path[0:0] = [
   '/home/sylvain/.voodoo/shared/eggs/vobject-0.9.3-py2.7.egg',
   '/home/sylvain/.voodoo/shared/eggs/Werkzeug-0.11.11-py2.7.egg',
   '/home/sylvain/.voodoo/shared/eggs/xlwt-1.1.2-py2.7.egg',
-  '/workspace/parts/odoo',
+  '/workspace/parts/odoo-production/odoo',
   '/home/sylvain/.voodoo/shared/eggs/anybox.testing.datetime-0.5-py2.7.egg',
   '/home/sylvain/.voodoo/shared/eggs/unittest2-1.1.0-py2.7.egg',
   '/home/sylvain/.voodoo/shared/eggs/traceback2-1.4.0-py2.7.egg',
